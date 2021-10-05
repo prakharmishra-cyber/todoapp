@@ -1,3 +1,3 @@
 # todoapp
-a generic todo app
-#This is a markup language.
+
+# This is a task manager app
