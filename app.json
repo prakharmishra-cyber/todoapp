@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "first-app",
+    "name": "ToDo Manager",
     "slug": "first-app",
+    "privacy":"public",
+    "description":"Keeps a track to tasks to perform",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
